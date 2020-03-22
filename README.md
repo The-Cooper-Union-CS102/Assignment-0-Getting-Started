@@ -1,2 +1,3 @@
 # Assignment-0-Getting-Started
-This is the first assignment, for you to get yourself set up.
+
+Change this file to consist of the text "Hello, world" only
